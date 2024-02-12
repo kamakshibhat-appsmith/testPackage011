@@ -2,11 +2,13 @@
   "moduleUUID": "65c9fd37c82bae30d8c41665",
   "type": "QUERY_MODULE",
   "unpublishedModuleInstance": {
-    "version": "0.0.1",
+    "version": "0.0.3",
     "name": "Query1",
     "contextType": "PAGE",
     "pageId": "Page1",
-    "inputs": {},
+    "inputs": {
+      "input1": "2"
+    },
     "jsonPathKeys": [],
     "isValid": true,
     "invalids": [],
